@@ -1,0 +1,43 @@
+#bodyBackground{
+    background-image: url('matematica.jpg');
+}
+#jogo
+{
+    background-color:white;
+    width: 30%;
+    color: YellowGreen;
+}
+#jogador1{
+    background-color: white;
+    width: 35%;
+    height: 18%;
+}
+#jogador2{
+    background-color: white;
+    width: 35%;
+    height: 18%;
+}
+#botao1{
+    width: 20%;
+    height: 7%;
+    background-color: YellowGreen;
+    color: rgb(70, 105, 0) ;
+}
+#jogadorUm{
+    color: YellowGreen;
+}
+#jogadorDois{
+    color: YellowGreen;
+}
+#miniNome1{
+    color:YellowGreen;
+}
+#miniNome2{
+    color: YellowGreen;
+}
+#caixaTexto1{
+    background-color: rgb(204, 226, 159);
+}
+#caixaTexto2{
+    background-color: rgb(204, 226, 159);
+}
